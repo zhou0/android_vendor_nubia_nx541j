@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<policy>
+    <inbox-package name="com.tencent.mobileqq" />
+    <inbox-package name="com.qzone" />
+    <inbox-package name="com.tencent.qqlite" />
+    <inbox-package name="com.duowan.mobile" />
+    <inbox-package name="com.tencent.qqgame.qqmjdq" />
+    <inbox-package name="com.tencent.mm" />
+    <inbox-package name="com.tencent.qqgame.qqTexaswvga" />
+    <inbox-package name="com.alibaba.mobileim" />
+    <inbox-package name="com.qqgame.hlddz" />
+    <inbox-package name="com.qqgame.hldouniu" />
+    <inbox-package name="com.qqgame.happymj" />
+    <inbox-package name="com.tencent.WBlog" />
+    <inbox-package name="com.sdu.didi.psnger" />
+    <inbox-package name="com.immomo.momo" />
+    <inbox-package name="com.facebook.katana" />
+    <inbox-package name="com.whatsapp" />
+</policy>

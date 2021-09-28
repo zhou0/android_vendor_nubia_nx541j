@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EccTable>
+    <!--
+        The attribute definition for tag EccEntry:
+        - Ecc: the emergnecy number
+        - Category: the service category
+        - Condition: there are following values:
+            - 0: ecc only when no sim
+            - 1: ecc always
+            - 2: MMI will show ecc but send to nw as normal call
+    -->
+
+    <EccEntry Mcc="460" Ecc="110" Category="0" Condition="2"/>
+    <EccEntry Mcc="460" Ecc="119" Category="0" Condition="2"/>
+    <EccEntry Mcc="460" Ecc="120" Category="0" Condition="2"/>
+    <EccEntry Mcc="460" Ecc="122" Category="0" Condition="2"/>
+    <EccEntry Mcc="460" Ecc="112" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="286" Ecc="112" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="334" Ecc="066" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="250" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="250" Ecc="911" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="302" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="302" Ecc="911" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="310" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="310" Ecc="911" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="734" Ecc="911" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="230" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="230" Ecc="150" Category="0" Condition="1"/>
+    <EccEntry Mcc="230" Ecc="155" Category="0" Condition="1"/>
+    <EccEntry Mcc="230" Ecc="158" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="722" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="722" Ecc="911" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="404" Ecc="100" Category="0" Condition="2"/>
+    <EccEntry Mcc="404" Ecc="101" Category="0" Condition="2"/>
+    <EccEntry Mcc="404" Ecc="102" Category="0" Condition="2"/>
+    <EccEntry Mcc="404" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="404" Ecc="911" Category="0" Condition="1"/>
+    <EccEntry Mcc="405" Ecc="100" Category="0" Condition="2"/>
+    <EccEntry Mcc="405" Ecc="101" Category="0" Condition="2"/>
+    <EccEntry Mcc="405" Ecc="102" Category="0" Condition="2"/>
+    <EccEntry Mcc="405" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="405" Ecc="911" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="502" Ecc="999" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="520" Ecc="911" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="262" Ecc="112" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="208" Ecc="112" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="655" Ecc="999" Category="0" Condition="1"/>
+    <EccEntry Mcc="655" Ecc="10111" Category="0" Condition="1"/>
+    <EccEntry Mcc="655" Ecc="10177" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="724" Ecc="190" Category="0" Condition="1"/>
+    <EccEntry Mcc="724" Ecc="192" Category="0" Condition="1"/>
+    <EccEntry Mcc="724" Ecc="193" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="214" Ecc="112" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="466" Ecc="110" Category="0" Condition="1"/>
+    <EccEntry Mcc="466" Ecc="119" Category="0" Condition="1"/>
+    <EccEntry Mcc="466" Ecc="112" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="510" Ecc="110" Category="0" Condition="1"/>
+    <EccEntry Mcc="510" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="510" Ecc="113" Category="0" Condition="1"/>
+    <EccEntry Mcc="510" Ecc="118" Category="0" Condition="1"/>
+    <EccEntry Mcc="510" Ecc="911" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="505" Ecc="000" Category="0" Condition="1"/>
+    <EccEntry Mcc="505" Ecc="112" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="515" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="515" Ecc="911" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="414" Ecc="191" Category="0" Condition="1"/>
+    <EccEntry Mcc="414" Ecc="199" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="452" Ecc="113" Category="0" Condition="2"/>
+    <EccEntry Mcc="452" Ecc="114" Category="0" Condition="2"/>
+    <EccEntry Mcc="452" Ecc="115" Category="0" Condition="2"/>
+
+    <EccEntry Mcc="425" Ecc="100" Category="0" Condition="1"/>
+    <EccEntry Mcc="425" Ecc="101" Category="0" Condition="1"/>
+    <EccEntry Mcc="425" Ecc="102" Category="0" Condition="1"/>
+    <EccEntry Mcc="425" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="425" Ecc="911" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="222" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="222" Ecc="113" Category="0" Condition="1"/>
+    <EccEntry Mcc="222" Ecc="114" Category="0" Condition="1"/>
+    <EccEntry Mcc="222" Ecc="115" Category="0" Condition="1"/>
+    <EccEntry Mcc="222" Ecc="116" Category="0" Condition="1"/>
+    <EccEntry Mcc="222" Ecc="117" Category="0" Condition="1"/>
+    <EccEntry Mcc="222" Ecc="118" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="424" Ecc="997" Category="0" Condition="1"/>
+    <EccEntry Mcc="424" Ecc="998" Category="0" Condition="1"/>
+    <EccEntry Mcc="424" Ecc="999" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="420" Ecc="997" Category="0" Condition="1"/>
+    <EccEntry Mcc="420" Ecc="998" Category="0" Condition="1"/>
+    <EccEntry Mcc="420" Ecc="999" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="202" Ecc="100" Category="0" Condition="1"/>
+    <EccEntry Mcc="202" Ecc="166" Category="0" Condition="1"/>
+    <EccEntry Mcc="202" Ecc="199" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="260" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="260" Ecc="997" Category="0" Condition="1"/>
+    <EccEntry Mcc="260" Ecc="998" Category="0" Condition="1"/>
+    <EccEntry Mcc="260" Ecc="999" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="216" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="216" Ecc="104" Category="0" Condition="1"/>
+    <EccEntry Mcc="216" Ecc="105" Category="0" Condition="1"/>
+    <EccEntry Mcc="216" Ecc="107" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="231" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="231" Ecc="150" Category="0" Condition="1"/>
+    <EccEntry Mcc="231" Ecc="155" Category="0" Condition="1"/>
+    <EccEntry Mcc="231" Ecc="158" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="234" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="234" Ecc="999" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="235" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="235" Ecc="999" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="268" Ecc="112" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="-1" Ecc="112" Category="0" Condition="1"/>
+    <EccEntry Mcc="-1" Ecc="911" Category="0" Condition="1"/>
+    <EccEntry Mcc="-1" Ecc="999" Category="0" Condition="1"/>
+
+    <EccEntry Mcc="-1" Ecc="911" Category="0" Condition="0"/>
+    <EccEntry Mcc="-1" Ecc="112" Category="0" Condition="0"/>
+    <EccEntry Mcc="-1" Ecc="000" Category="0" Condition="0"/>
+    <EccEntry Mcc="-1" Ecc="08" Category="0" Condition="0"/>
+    <EccEntry Mcc="-1" Ecc="110" Category="0" Condition="0"/>
+    <EccEntry Mcc="-1" Ecc="999" Category="0" Condition="0"/>
+    <EccEntry Mcc="-1" Ecc="118" Category="0" Condition="0"/>
+    <EccEntry Mcc="-1" Ecc="119" Category="0" Condition="0"/>
+</EccTable>
